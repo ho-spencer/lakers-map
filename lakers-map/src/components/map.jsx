@@ -629,4 +629,4 @@ const USAMap = (props) => (
     />
   </svg>
 );
-export default SVGComponent;
+export default USAMap;
